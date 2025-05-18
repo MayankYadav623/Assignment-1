@@ -1,2 +1,1 @@
-# Assignment-1
-Installation of IPFS and uploading a file to IPFS
+Installation of IPFS on local machine. Further, upload the files (such as photos, audio, and video) on IPFS and share it with other through content identifier (i.e., hash # Assignment-1
